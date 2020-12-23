@@ -1,5 +1,5 @@
 # MISR
-Exploratory Project on Multiple-Image Super-Resolution
+Exploratory Project on Multiple-Image Super-Resolution for the Autumn 2020 IFT6145 Computer Vision course at Université de Montréal.
 
 Explores the use of optical flow in mutiple-image super-resolution. This method should be similar to what is used by other projects such as Nvidia DLSS.
 
